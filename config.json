@@ -2,7 +2,7 @@
     "generator": {
         "length": 16,
         "random": true,
-        "amount": 100000,
+        "amount": 1000,
         "outfile": "./db/codes/codes.txt"
     },
     "checker": {
